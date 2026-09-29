@@ -90,7 +90,7 @@ After receiving the information, the program displays a confirmation message sta
 
 ---
 
-### 5. 🚪 Exit
+### 5. Exit
 
 The fifth option allows the user to exit the hospital portal.
 
