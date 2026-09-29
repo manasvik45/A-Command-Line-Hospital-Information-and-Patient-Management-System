@@ -1,0 +1,2 @@
+# A-Command-Line-Hospital-Information-and-Patient-Management-System
+The **Sreeam Hospital Portal** is a Python-based command-line application designed to manage basic hospital information. It allows users to view patient details, doctor and department information, consultation status, and allot new patients through a simple menu-driven interface. The project demonstrates fundamental Python concepts .
