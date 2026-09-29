@@ -597,6 +597,6 @@ This project was developed as part of an academic programming project to demonst
 
 Thank you for visiting this project repository!
 
-If you found the project useful for learning Python, feel free to explore the code and experiment with its functionality.
+
 
 
