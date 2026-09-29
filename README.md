@@ -1,6 +1,6 @@
-# 🏥 A Command-Line Hospital Information and Patient Management System
+# A Command-Line Hospital Information and Patient Management System
 
-## 📌 Project Description
+## Project Description
 
 **A Command-Line Hospital Information and Patient Management System** is a Python-based command-line application designed to provide basic hospital information and patient management functionalities through a simple interactive menu.
 
@@ -10,7 +10,7 @@ The project demonstrates how basic Python programming concepts can be applied to
 
 ---
 
-## 🎯 Aim of the Project
+## Aim of the Project
 
 The aim of this project is to create a simple command-line hospital portal that allows users to access basic information about patients, doctors, consultations, and new patient admissions.
 
@@ -18,11 +18,11 @@ The project focuses on implementing Python fundamentals in a practical applicati
 
 ---
 
-## ✨ Main Features
+## Main Features
 
 The program provides the following options:
 
-### 1. 👤 Admitted Patients
+### 1. Admitted Patients
 
 The user can view a list of admitted patients and select a patient to see their details.
 
@@ -61,7 +61,7 @@ The program includes four doctors associated with departments such as Orthopaedi
 
 ---
 
-### 3. 🩺 Consultation Status
+### 3. Consultation Status
 
 The third option allows the user to select a patient and check their consultation status.
 
@@ -75,7 +75,7 @@ For example, the program contains both completed and pending consultation cases.
 
 ---
 
-### 4. 🏥 New Patient Allotment
+### 4. New Patient Allotment
 
 The fourth option allows the user to enter information for a new patient.
 
@@ -90,7 +90,7 @@ After receiving the information, the program displays a confirmation message sta
 
 ---
 
-### 5. 🚪 Exit
+### 5. Exit
 
 The fifth option allows the user to exit the hospital portal.
 
@@ -119,7 +119,7 @@ and terminates the program.
 
 ---
 
-# 🧠 Python Concepts Used
+# Python Concepts Used
 
 ## 1. Variables
 
@@ -228,7 +228,7 @@ The new patient section also collects information directly from the user.
 
 ---
 
-# 🔄 How the System Works
+# How the System Works
 
 The basic working process of the application is:
 
@@ -269,7 +269,7 @@ Display Details              Display Details
 
 ---
 
-# 📋 Main Menu
+# Main Menu
 
 When the program starts, it displays:
 
@@ -286,7 +286,7 @@ The user then enters the number corresponding to the required operation.
 
 ---
 
-# 💻 Sample Program Execution
+# Sample Program Execution
 
 ## Example 1 — Viewing an Admitted Patient
 
@@ -320,7 +320,7 @@ Assigned Doctor : Dr. Goswami
 
 ---
 
-# 👨‍⚕️ Example 2 — Viewing Doctor Information
+# Example 2 — Viewing Doctor Information
 
 ```text
 Doctors(departments) Assigned:
@@ -346,7 +346,7 @@ The corresponding doctor details are defined directly in the program.
 
 ---
 
-# 🩺 Example 3 — Consultation Status
+# Example 3 — Consultation Status
 
 ```text
 Patient ID of Patients for consulation:
@@ -367,7 +367,7 @@ The consultation section contains different statuses for the available patient I
 
 ---
 
-# 🏥 Example 4 — New Patient Allotment
+# Example 4 — New Patient Allotment
 
 ```text
 Enter Name of Patient: Ananya
@@ -384,7 +384,7 @@ The new-patient section accepts the required information and displays an admissi
 
 ---
 
-# 🚪 Example 5 — Exit
+# Example 5 — Exit
 
 ```text
 what u wish to do today? 5
@@ -395,7 +395,7 @@ Thank You
 
 ---
 
-# 📊 Data Included in the Program
+# Data Included in the Program
 
 ## Patient Records
 
@@ -427,7 +427,7 @@ The program also stores their qualifications and specializations.
 
 ---
 
-# 📁 Project Structure
+# Project Structure
 
 A simple GitHub repository for this project can contain:
 
@@ -446,35 +446,35 @@ A-Command-Line-Hospital-Information-and-Patient-Management-System/
 
 ---
 
-# 📸 Screenshots
+# Screenshots
 
 Screenshots of the actual program execution can be included here.
 
-### 🏠 Main Menu
+### Main Menu
 
 ```markdown
 ![Main Menu](screenshots/main-menu.png)
 ```
 
-### 👤 Patient Details
+### Patient Details
 
 ```markdown
 ![Patient Details](screenshots/patient-details.png)
 ```
 
-### 👨‍⚕️ Doctor Details
+### Doctor Details
 
 ```markdown
 ![Doctor Details](screenshots/doctor-details.png)
 ```
 
-### 🩺 Consultation Status
+### Consultation Status
 
 ```markdown
 ![Consultation Status](screenshots/consultation-status.png)
 ```
 
-### 🏥 New Patient Allotment
+### New Patient Allotment
 
 ```markdown
 ![New Patient](screenshots/new-patient.png)
@@ -482,7 +482,7 @@ Screenshots of the actual program execution can be included here.
 
 ---
 
-# ⚠️ Current Limitations
+# Current Limitations
 
 The current version is a basic command-line project. Based on the provided code, patient and doctor information is predefined in the program rather than being stored in an external database or file.
 
@@ -501,41 +501,41 @@ These limitations provide opportunities for future development.
 
 ---
 
-# 🚀 Future Scope
+# Future Scope
 
 The project can be enhanced in future versions by adding:
 
-### 🗄️ Database Integration
+### Database Integration
 
 Patient, doctor, and appointment records could be stored in SQLite or MySQL.
 
-### 🔐 Login System
+### Login System
 
 An authentication system could be added for administrators and hospital staff.
 
-### 🖥️ Graphical User Interface
+### Graphical User Interface
 
 The command-line interface could be converted into a GUI using technologies such as Tkinter.
 
-### 📅 Appointment Management
+### Appointment Management
 
 A dedicated appointment module could be developed for scheduling and managing appointments.
 
-### 💊 Pharmacy Management
+### Pharmacy Management
 
 Medicine availability and patient prescriptions could be incorporated.
 
-### 🛏️ Room Management
+### Room Management
 
 The system could track available and occupied hospital rooms.
 
-### 📊 Reports
+### Reports
 
 The system could generate patient and hospital reports.
 
 ---
 
-# 🎓 Learning Outcomes
+# Learning Outcomes
 
 This project helped demonstrate practical use of:
 
@@ -553,7 +553,7 @@ This project helped demonstrate practical use of:
 
 ---
 
-# 🎯 Project Objective
+# Project Objective
 
 The project demonstrates how a simple Python program can be designed around a real-world problem.
 
@@ -561,7 +561,7 @@ Instead of displaying isolated Python examples, the concepts are combined into a
 
 ---
 
-# 📝 Conclusion
+# Conclusion
 
 The **A Command-Line Hospital Information and Patient Management System** is a basic Python application that demonstrates the implementation of fundamental programming concepts in a practical hospital scenario.
 
@@ -571,7 +571,7 @@ Although the current version is intentionally simple, it provides a foundation t
 
 ---
 
-# 👨‍💻 Project Details
+# Project Details
 
 **Project Name:** A Command-Line Hospital Information and Patient Management System
 
@@ -587,13 +587,13 @@ Although the current version is intentionally simple, it provides a foundation t
 
 ---
 
-# ⭐ Acknowledgement
+# Acknowledgement
 
 This project was developed as part of an academic programming project to demonstrate the practical application of Python programming fundamentals and problem-solving concepts.
 
 ---
 
-## ⭐ Thank You
+## Thank You
 
 Thank you for visiting this project repository!
 
